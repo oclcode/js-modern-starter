@@ -92,4 +92,4 @@ If your changes include new features or modifications to existing functionality,
 
 Join our community and participate in discussions. Your feedback and ideas are valuable to us!
 
-Thank you for your contributions! We appreciate your help in making js-modern-starter better.
+Thank you for your contributions! We appreciate your help in making **js-modern-starter** better.
